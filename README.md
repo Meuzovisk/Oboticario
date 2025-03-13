@@ -1,0 +1,3 @@
+PACOTES DO NODE NECESSÁRIOS:
+express
+ejs
